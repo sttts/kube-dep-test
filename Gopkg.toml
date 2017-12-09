@@ -1,0 +1,12 @@
+[[constraint]]
+  name = "k8s.io/client-go"
+  version = "5.0.1"
+  source = "https://github.com/kubernetes-dep-experiment/client-go.git"
+
+[[constraint]]
+  name = "k8s.io/api"
+  source = "https://github.com/kubernetes-dep-experiment/api.git"
+
+[[constraint]]
+  name = "k8s.io/apimachinery"
+  source = "https://github.com/kubernetes-dep-experiment/apimachinery.git"
